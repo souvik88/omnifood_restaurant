@@ -1,4 +1,4 @@
-# omnifood_restaurant
+# Omnifood Restaurant Project
 Omnifood demo project
 page link:
 
